@@ -4,6 +4,7 @@ This is a collection of good JS resources I use during development.
 
 ## General
   * http://keycode.info/ - Keycodes
+  * https://regex101.com/ - RegExp test
 
 ## Functional
   * http://rxmarbles.com/ - RxJS Marble diagrams
